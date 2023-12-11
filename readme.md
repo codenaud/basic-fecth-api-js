@@ -1,3 +1,5 @@
+# Basic Fetch API JS
+
 This project demonstrates a basic JavaScript connection to the PokeAPI using the Fetch API.
 
 ## Description
